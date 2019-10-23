@@ -14,9 +14,6 @@ public class HHW{
             }
             System.out.println(maxVal);
             System.out.println(minVal);
-            System.out.println(minVal);
-            System.out.println(minVal);
-            System.out.println(minVal);
         }
     }
 }
